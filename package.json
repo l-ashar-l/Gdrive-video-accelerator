@@ -1,0 +1,19 @@
+{
+  "name": "gdrive-video-accelerator",
+  "version": "1.0.0",
+  "description": "nodejs project handling large video files download and upload simultaneously",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l-ashar-l/Gdrive-video-accelerator.git"
+  },
+  "author": "ashar ansari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l-ashar-l/Gdrive-video-accelerator/issues"
+  },
+  "homepage": "https://github.com/l-ashar-l/Gdrive-video-accelerator#readme"
+}
